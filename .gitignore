@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.pytest_cache/
+
+# Venv
+search-local-breweries-with-google-maps-api/
+
+# Ignore csv files
+*.csv
+
+# Ignore yml files
+*.yml
