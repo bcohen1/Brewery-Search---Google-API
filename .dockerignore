@@ -1,11 +1,13 @@
 *.csv
 *.yml
+.pytest_cache/
+__pycache__/
+htmlcov/
+search-local-breweries-with-google-maps-api/
+tests/
 .dockerignore
 .gitignore
-.pytest_cache/
 Dockerfile
 LICENSE
 Makefile
 README.md
-search-local-breweries-with-google-maps-api/
-__pycache__/

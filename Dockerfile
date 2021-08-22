@@ -8,6 +8,4 @@ COPY requirements.txt .
 
 RUN pip install -r requirements.txt
 
-COPY . .
-
-CMD ["python", "breweries.py"]
+COPY breweries.py .
